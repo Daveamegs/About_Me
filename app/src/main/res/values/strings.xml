@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="done">Done</string>
+    <string name="my_name">David Jones</string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis dictum libero,
+        ut interdum ligula dignissim vel. Ut vel eleifend ante, vitae maximus ipsum. Duis lacinia
+        consectetur nulla, sit amet posuere nunc mollis et. Class aptent taciti sociosqu ad litora
+        torquent per conubia nostra, per inceptos himenaeos. Praesent euismod nisl risus, viverra
+        bibendum ante volutpat in. Morbi orci ante, consectetur at fringilla egestas, rutrum non turpis.
+        Donec posuere magna libero. Suspendisse vitae dictum ligula, sed fringilla leo.
+
+        Praesent tempor libero a libero rhoncus, at varius odio gravida. Etiam vitae sodales urna,
+        vitae gravida lorem. Maecenas accumsan rutrum urna, nec lacinia augue sodales at.
+        Vivamus ac lacus orci. Donec facilisis suscipit leo, nec eleifend lacus rhoncus et.
+        Suspendisse blandit orci ac congue porta. Aenean rhoncus vulputate tellus a interdum.
+        Donec et egestas libero. Aliquam erat volutpat. Fusce blandit elit nec diam fermentum,
+        vitae gravida neque convallis. Maecenas vitae porttitor elit. Nunc tristique arcu at lorem
+        ornare consequat. Sed lorem turpis, accumsan sit amet lacus ultricies, tincidunt efficitur nunc.
+        Ut ut lorem euismod, vestibulum est quis, porttitor massa. Sed vitae placerat purus, et imperdiet
+        erat. Proin ac facilisis dui, sit amet pellentesque orci.
+
+        Morbi id semper arcu. Integer ut massa porttitor, maximus libero molestie, fringilla dolor.
+        Nam ante nisi, maximus ac pellentesque a, hendrerit placerat erat. Aenean vel tempus mauris,
+        varius molestie velit. Praesent dignissim lorem vel fermentum eleifend. Ut convallis accumsan
+        orci ac mattis. Proin eget lorem blandit, facilisis mauris at, molestie leo. Praesent sit amet
+        sollicitudin urna, in sollicitudin nulla. Vivamus suscipit faucibus lacus vitae iaculis.
+        Sed a dui turpis. Nunc a ipsum sit amet purus mollis faucibus. Curabitur pretium justo in ipsum
+        tincidunt, ac mollis libero ullamcorper.
+    </string>
+</resources>
